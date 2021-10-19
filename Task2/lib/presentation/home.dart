@@ -115,6 +115,7 @@ class _HomeScreenState extends State<MyHomePage> {
                                   ),
                                   Container(
                                     decoration: BoxDecoration(
+                                      color: Colors.white,
                                       border: Border.all(color: Colors.white),
                                       borderRadius: BorderRadius.circular(45),
                                     ),
@@ -171,6 +172,7 @@ class _HomeScreenState extends State<MyHomePage> {
                                   ),
                                   Container(
                                     decoration: BoxDecoration(
+                                      color: Colors.white,
                                       border: Border.all(color: Colors.white),
                                       borderRadius: BorderRadius.circular(45),
                                     ),
